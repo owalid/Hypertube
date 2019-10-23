@@ -1,0 +1,122 @@
+{
+    "login": "Iniciar sesión",
+    "loginGh": "Inicie sesión con GitHub",
+    "loginFb": "Iniciar sesión con Facebook",
+    "loginGoogle": "Inicia sesión con Google",
+    "loginIntra": "Iniciar sesión con 42",
+    "RegisterGh": "Registrarse con GitHub",
+    "RegisterFb": "Registrarse con Facebook",
+    "RegisterGoogle": "Registrarse con Google",
+    "RegisterIntra": "Registrarse con 42",
+    "resetPwd": "Restablecer mi contraseña",
+    "close": "Cerrar",
+    "reset": "Reiniciar",
+    "submit": "Enviar",
+    "register": "Registro",
+    "username": "Nombre de usuario",
+    "un-hint": "Por favor use solo letras y números",
+    "firstname": "Primer nombre",
+    "name-hint": "Por favor, utilice sólo letras",
+    "lastname": "Apellido",
+    "email": "Email",
+    "pwd": "Contraseña",
+    "avatar": "Imagen de perfil",
+    "names": "Sus informaciones",
+    "upload_img": "Sube tu foto de perfil",
+    "upload": "Subir",
+    "load": "cargando",
+    "update": "Actualizar",
+    "logout": "Cerrar sesión",
+    "pref": "Configuraciones",
+    "rule": {
+        "name": "Al menos 3 letras",
+        "username": "Al menos 5 letras o números",
+        "img": "Por favor seleccione una foto de perfil",
+        "pwd": "Al menos 1 letra mayúscula & 1 número o 1 carácter especial"
+    },
+    "error": {
+        "internal": "Error de servidor interno",
+        "confirm": "Por favor revise su buzón y confirme su cuenta",
+        "instruct": "Por favor siga las instrucciones",
+        "required": "Campo requerido",
+        "wrong": "Correo o contraseña equivocada"
+    },
+    "security": {
+        "oldpw": "Contraseña anterior",
+        "newpw": "Nueva contraseña",
+        "changepw": "cambia tu contraseña"
+    },
+    "slides": {
+        "infos": "Infos",
+        "trailer": "Remolque",
+        "suggestion": "Sugerencias",
+        "synopsis": "Sinopsis",
+        "play": "Jugar"
+    },
+    "search": {
+        "find": "Buscar"
+    },
+    "store": {
+        "news": "Noticias",
+        "popular": "Popular",
+        "later": "Ver despues",
+        "friends": "Mis amigos"
+    },
+    "404": {
+        "title": "Whoops, 404",
+        "desc": "La página que estabas buscando no existe",
+        "redirect": "¡Sácame de aquí!"
+    },
+    "bm": {
+        "addto": "Agregar a su lista de observación",
+        "del": "Eliminar de tu lista de observación"
+    },
+    "movie": {
+        "comments": "Comentarios",
+        "commentbtn": "Añadir un comentario",
+        "genre": "Género",
+        "rate": "Ratind",
+        "date": "Fecha",
+        "nocmt": "Sin comentarios",
+        "error": "Oups ocurrió un error",
+        "info": "Infos del filmo",
+        "actors": "Actores",
+        "prod": "Producción",
+        "award": "Recompensas",
+        "director": "Realisator",
+        "country": "Paga",
+        "duration": "Durée",
+        "boxoffice": "Taquilla",
+        "quality": "Calidad",
+        "yourcmt": "Tu mensaje"
+    },
+    "home": "Casa",
+    "profil": {
+        "follow": "Seguir",
+        "unfollow": "Dejar de seguir",
+        "playlist": "Lista de reproducción",
+        "recent": "Ver recientemente",
+        "friends": "Amigos"
+    },
+    "Action": "Acción",
+    "Adventure": "Aventura",
+    "Animation": "Animación",
+    "Comedy": "Comedia",
+    "Crime": "Crimen",
+    "Documentary": "Documental",
+    "Drama": "Drama",
+    "Family": "Familia",
+    "Fantasy": "Fantasía",
+    "History": "Historia",
+    "Horror": "Horror",
+    "Music": "Música",
+    "Musical": "Musical",
+    "Mystery": "Misterio",
+    "Romance": "Romance",
+    "Sci-Fi": "Ciencia ficción",
+    "Science-fiction": "Ciencia ficción",
+    "Sport": "Deporte",
+    "Thriller": "Novela de suspenso",
+    "War": "Guerra",
+    "Western": "occidental"
+}

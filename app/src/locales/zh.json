@@ -1,0 +1,122 @@
+{
+    "login": "登录",
+    "loginGh": "用GitHub登录",
+    "loginFb": "用Facebook登录",
+    "loginGoogle": "用谷歌登录",
+    "loginIntra": "用42登录",
+    "RegisterGh": "在GitHub上注册",
+    "RegisterFb": "在Facebook注册",
+    "RegisterGoogle": "向Google注册",
+    "RegisterIntra": "注册42",
+    "resetPwd": "重置我的密码",
+    "close": "关",
+    "reset": "重启",
+    "submit": "提交",
+    "register": "寄存器",
+    "username": "用户名",
+    "un-hint": "请仅使用字母和数字",
+    "firstname": "名字",
+    "name-hint": "请仅使用字母",
+    "lastname": "姓",
+    "email": "电子邮件",
+    "pwd": "密码",
+    "avatar": "配置文件图片",
+    "names": "您的信息",
+    "upload_img": "上载您的个人资料图片",
+    "upload": "上载",
+    "load": "裝貨",
+    "update": "更新资料",
+    "logout": "登出",
+    "pref": "设定值",
+    "rule": {
+        "name": "至少3个字母",
+        "username": "至少5个字母或数字",
+        "img": "请选择个人资料图片",
+        "pwd": "至少1个大写字母 & 1个数字或1个特殊字符"
+    },
+    "error": {
+        "internal": "内部服务器错误",
+        "confirm": "请检查您的邮箱并确认您的帐户",
+        "instruct": "请遵循指示",
+        "required": "必填项目",
+        "wrong": "错误的邮件地址或密码"
+    },
+    "security": {
+        "oldpw": "旧密码",
+        "newpw": "新密码",
+        "changepw": "更改您的密码"
+    },
+    "slides": {
+        "infos": "资讯",
+        "trailer": "预告片",
+        "suggestion": "意见建议",
+        "synopsis": "概要",
+        "play": "玩"
+    },
+    "search": {
+        "find": "搜索"
+    },
+    "store": {
+        "news": "新闻",
+        "popular": "流行",
+        "later": "稍后观看",
+        "friends": "我的朋友"
+    },
+    "404": {
+        "title": "404",
+        "desc": "您要查找的页面不存在",
+        "redirect": "带我离开这里！"
+    },
+    "bm": {
+        "addto": "添加到您的监视列表",
+        "del": "从您的监视列表中删除"
+    },
+    "movie": {
+        "comments": "评论",
+        "commentbtn": "添加评论",
+        "genre": "类型",
+        "rate": "拉廷德",
+        "date": "日期",
+        "nocmt": "没有意见",
+        "error": "发生错误",
+        "info": "电影信息",
+        "actors": "演员",
+        "prod": "生产",
+        "award": "Récompenses",
+        "director": "Réalisateur",
+        "country": "支付",
+        "duration": "杜蕾",
+        "boxoffice": "票房",
+        "quality": "质量",
+        "yourcmt": "你的信息"
+    },
+    "home": "家",
+    "profil": {
+        "follow": "跟随",
+        "unfollow": "取消关注",
+        "playlist": "播放清单",
+        "recent": "最近查看",
+        "friends": "友人"
+    },
+    "Action": "行动",
+    "Adventure": "艳遇",
+    "Animation": "动画",
+    "Comedy": "喜剧",
+    "Crime": "犯罪",
+    "Documentary": "记录",
+    "Drama": "戏剧",
+    "Family": "家庭",
+    "Fantasy": "幻想",
+    "History": "历史",
+    "Horror": "恐怖",
+    "Music": "音乐",
+    "Musical": "音乐",
+    "Mystery": "神秘",
+    "Romance": "浪漫",
+    "Sci-Fi": "科幻",
+    "Science-fiction": "科幻",
+    "Sport": "运动",
+    "Thriller": "惊悚片",
+    "War": "战争",
+    "Western": "西"
+}

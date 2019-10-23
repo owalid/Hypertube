@@ -1,0 +1,122 @@
+{
+    "login": "Einloggen",
+    "loginGh": "Loggen Sie sich mit GitHub ein",
+    "loginFb": "Mit Facebook einloggen",
+    "loginGoogle": "Loggen Sie sich mit Google ein",
+    "loginIntra": "Einloggen mit 42",
+    "RegisterGh": "Registrieren Sie sich bei GitHub",
+    "RegisterFb": "Registrieren Sie sich bei Facebook",
+    "RegisterGoogle": "Registrieren Sie sich bei Google",
+    "RegisterIntra": "Registrieren Sie sich mit 42",
+    "resetPwd": "Setze mein Passwort zurück",
+    "close": "Schließen",
+    "reset": "Zurücksetzen",
+    "submit": "einreichen",
+    "register": "Registrieren",
+    "username": "Nutzername",
+    "un-hint": "Bitte verwenden Sie nur Buchstaben und Zahlen",
+    "firstname": "Vorname",
+    "name-hint": "Bitte benutzen Sie nur Buchstaben",
+    "lastname": "Nachname",
+    "email": "Email",
+    "pwd": "Passwort",
+    "avatar": "Profilbild",
+    "names": "Deine Infos",
+    "upload_img": "Laden Sie Ihr Profilbild hoch",
+    "upload": "Hochladen",
+    "load": "Wird geladen",
+    "update": "Aktualisieren",
+    "logout": "Ausloggen",
+    "pref": "die Einstellungen",
+    "rule": {
+        "name": "Mindestens 3 Buchstaben",
+        "username": "Mindestens 5 Buchstaben oder Zahlen",
+        "img": "Bitte wählen Sie ein Profilbild",
+        "pwd": "Mindestens 1 Großbuchstabe & 1 Ziffer oder 1 Sonderzeichen"
+    },
+    "error": {
+        "internal": "Interner Serverfehler",
+        "confirm": "Bitte überprüfen Sie Ihre Mailbox und bestätigen Sie Ihr Konto",
+        "instruct": "Bitte folgen Sie den Anweisungen",
+        "required": "Pflichtfeld",
+        "wrong": "Falsche Email oder Passwort"
+    },
+    "security": {
+        "oldpw": "Altes Passwort",
+        "newpw": "Neues Passwort",
+        "changepw": "Ändern Sie Ihr Passwort"
+    },
+    "slides": {
+        "infos": "Infos",
+        "trailer": "Anhänger",
+        "suggestion": "Vorschläge",
+        "synopsis": "Zusammenfassung",
+        "play": "abspielen"
+    },
+    "search": {
+        "find": "Suche"
+    },
+    "store": {
+        "news": "Nachrichten",
+        "popular": "Beliebt",
+        "later": "Später ansehen",
+        "friends": "Meine Freunde"
+    },
+    "404": {
+        "title": "Hoppla, 404",
+        "desc": "Die von Ihnen gesuchte Seite existiert nicht",
+        "redirect": "Hol mich hier raus!"
+    },
+    "bm": {
+        "addto": "Zur Merkliste hinzufügen",
+        "del": "Von der Merkliste entfernen"
+    },
+    "movie": {
+        "comments": "Bemerkungen",
+        "commentbtn": "Einen Kommentar hinzufügen",
+        "genre": "Genre",
+        "rate": "Rating",
+        "date": "Datum",
+        "nocmt": "Kein Kommentar",
+        "error": "Es ist ein Fehler aufgetreten",
+        "info": "Infos das film",
+        "actors": "Schauspieler",
+        "prod": "Produktion",
+        "award": "Entschädigungen",
+        "director": "Direktor",
+        "country": "Zahlt sich aus",
+        "duration": "Duration",
+        "boxoffice": "Theaterkasse",
+        "quality": "Qualität",
+        "yourcmt": "Deine Nachricht"
+    },
+    "home": "Zuhause",
+    "profil": {
+        "follow": "Folgen",
+        "unfollow": "Nicht mehr folgen",
+        "playlist": "Wiedergabeliste",
+        "recent": "Kürzlich anzeigen",
+        "friends": "Freunde"
+    },
+    "Action": "Aktion",
+    "Adventure": "Abenteuer",
+    "Animation": "Animation",
+    "Comedy": "Komödie",
+    "Crime": "Verbrechen",
+    "Documentary": "Dokumentarfilm",
+    "Drama": "Theater",
+    "Family": "Familie",
+    "Fantasy": "Fantasie",
+    "History": "Geschichte",
+    "Horror": "Grusel",
+    "Music": "Musik",
+    "Musical": "Musical",
+    "Mystery": "Geheimnis",
+    "Romance": "Romantik",
+    "Sci-Fi": "Science-Fiction",
+    "Science-fiction": "Science-Fiction",
+    "Sport": "Sport",
+    "Thriller": "Thriller",
+    "War": "Krieg",
+    "Western": "Western"
+}

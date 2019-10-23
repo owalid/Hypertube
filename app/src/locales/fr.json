@@ -1,0 +1,123 @@
+{
+    "login": "Connexion",
+    "loginGh": "Connexion avec GitHub",
+    "loginFb": "Connexion avec Facebook",
+    "loginGoogle": "Connexion avec Google",
+    "loginIntra": "Connexion avec 42",
+    "RegisterGh": "S'enregistrer avec GitHub",
+    "RegisterFb": "S'enregistrer avec Facebook",
+    "RegisterGoogle": "S'enregistrer avec Google",
+    "RegisterIntra": "S'enregistrer avec 42",
+    "home": "Accueil",
+    "resetPwd": "Mot de passe oublié",
+    "close": "Fermer",
+    "reset": "Reset",
+    "submit": "Envoyer",
+    "register": "Créer un compte",
+    "username": "Pseudo",
+    "un-hint": "Utiliser seulement des lettres et des chiffres",
+    "firstname": "Prénom",
+    "name-hint": "Utiliser seulement des lettres",
+    "lastname": "Nom",
+    "email": "Adresse e-mail",
+    "pwd": "Mot de passe",
+    "avatar": "Photo de Profil",
+    "names": "Vos infos",
+    "upload_img": "Uploader une photo de profil",
+    "upload": "Upload",
+    "load": "Chargement",
+    "update": "Mettre a jour",
+    "logout": "Déconnexion",
+    "pref": "Préférences",
+    "rule": {
+        "name": "3 lettres minimum",
+        "username": "5 caractères alphanumeriques minimum",
+        "img": "Selectionner une photo de profil (.jpg/jpeg ou .png)",
+        "pwd": "Au moins 1 majuscule et 1 chiffre ou 1 caractère spécial",
+        "email": "Format d'e-mail incorrect"
+    },
+    "error": {
+        "internal": "Erreur du serveur",
+        "confirm": "Merci de vérifier vos e-mails pour confirmer votre compte",
+        "instruct": "Merci de suivre les instructions",
+        "required": "Champ requis",
+        "wrong": "Mauvais e-mail ou mot de passe"
+    },
+    "security": {
+        "oldpw": "Ancien mot de passe",
+        "newpw": "Nouveau mot de passe",
+        "changepw": "Modifier le mot de passe"
+    },
+    "slides": {
+        "infos": "Infos",
+        "trailer": "Bande-annonce",
+        "suggestion": "Suggestions",
+        "synopsis": "Resumé",
+        "play": "Lire"
+    },
+    "search": {
+        "find": "Rechercher"
+    },
+    "store": {
+        "news": "Nouveautés",
+        "popular": "Populaires",
+        "later": "A regarder plus tard",
+        "friends": "Mes amis"
+    },
+    "404": {
+        "title": "Whoops, 404",
+        "desc": "La page n'existe pas",
+        "redirect": "Sortez-moi de la!"
+    },
+    "bm": {
+        "addto": "À regarder plus tard",
+        "del": "Supprimer de la liste"
+    },
+    "movie": {
+        "info": "Infos du film",
+        "actors": "Acteurs",
+        "prod": "Production",
+        "award": "Récompenses",
+        "director": "Réalisateur",
+        "country": "Pays",
+        "duration": "Durée",
+        "boxoffice": "Box-office",
+        "quality": "Qualité",
+        "yourcmt": "Votre commentaire",
+        "comments": "Commentaires",
+        "commentbtn": "Ajouter un commentaire",
+        "genre": "Genre",
+        "rate": "Note",
+        "date": "Date de sortie",
+        "nocmt": "Aucun commentaire pour le moment",
+        "error": "Oups une erreur est survenu"
+    },
+    "profil": {
+        "follow": "Suivre",
+        "unfollow": "Ne plus suivre",
+        "playlist": "Liste de lecture",
+        "recent": "Vue récemment",
+        "friends": "Amis"
+    },
+    "Action": "Action",
+    "Adventure": "Aventure",
+    "Animation": "Animation",
+    "Comedy": "Comédie",
+    "Crime": "Crime",
+    "Documentary": "Documentaire",
+    "Drama": "Drame",
+    "Family": "Famille",
+    "Fantasy": "Fantasy",
+    "History": "Histoire",
+    "Horror": "Horreur",
+    "Music": "Musique",
+    "Musical": "Comedie Musicale",
+    "Mystery": "Mystère",
+    "Romance": "Comédie Romantique",
+    "Sci-Fi": "Sci-Fi",
+    "Science-fiction": "Sci-Fi",
+    "Sport": "Sport",
+    "Thriller": "Thriller",
+    "War": "Guerre",
+    "Western": "Western"
+}

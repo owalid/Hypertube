@@ -1,0 +1,123 @@
+{
+    "login": "Login",
+    "loginGh": "Login with GitHub",
+    "loginFb": "Login with Facebook",
+    "loginGoogle": "Login with Google",
+    "loginIntra": "Login with 42",
+    "RegisterGh": "Register with GitHub",
+    "RegisterFb": "Register with Facebook",
+    "RegisterGoogle": "Register with Google",
+    "RegisterIntra": "Register with 42",
+    "home": "Home",
+    "resetPwd": "Reset my password",
+    "close": "Close",
+    "reset": "Reset",
+    "submit": "Submit",
+    "register": "Register",
+    "username": "Username",
+    "un-hint": "Please use only letters and numbers",
+    "firstname": "Firstname",
+    "name-hint": "Please use only letters",
+    "lastname": "Lastname",
+    "email": "E-mail",
+    "pwd": "Password",
+    "avatar": "Profil picture",
+    "names": "Your infos",
+    "upload_img": "Upload your profil pic",
+    "upload": "Upload",
+    "load": "loading",
+    "update": "Update",
+    "logout": "Logout",
+    "pref": "Settings",
+    "rule": {
+        "name": "At least 3 letters",
+        "username": "At least 5 letters or numbers",
+        "img": "Please select a profil picture (.jpg/jpeg or .png)",
+        "pwd": "At least 1 capital letter AND 1 number or 1 special character",
+        "email": "Incorrect e-mail format"
+    },
+    "error": {
+        "internal": "Internal server error",
+        "confirm": "Please check your mailbox and confirm your account",
+        "instruct": "Please follow instructions",
+        "required": "Required Field",
+        "wrong": "Wrong e-mail or password"
+    },
+    "security": {
+        "oldpw": "Old password",
+        "newpw": "New password",
+        "changepw": "Change your password"
+    },
+    "slides": {
+        "infos": "Infos",
+        "trailer": "Trailer",
+        "suggestion": "Suggestions",
+        "synopsis": "Synopsis",
+        "play": "Play"
+    },
+    "search": {
+        "find": "Search"
+    },
+    "store": {
+        "news": "News",
+        "popular": "Popular",
+        "later": "Watch later",
+        "friends": "My friends"
+    },
+    "404": {
+        "title": "Whoops, 404",
+        "desc": "The page you were looking for does not exist",
+        "redirect": "Get me out of here!"
+    },
+    "bm": {
+        "addto": "Add to your watch list",
+        "del": "Remove from your watch list"
+    },
+    "movie": {
+        "info": "Movie Infos",
+        "actors": "Actors",
+        "prod": "Production",
+        "award": "Awards",
+        "director": "Director",
+        "country": "Country",
+        "duration": "Duration",
+        "boxoffice": "Box-office",
+        "quality": "Quality",
+        "yourcmt": "Your message",
+        "comments": "Comments",
+        "commentbtn": "Add a comment",
+        "genre": "Genre",
+        "rate": "Rating",
+        "date": "Date",
+        "nocmt": "No comment",
+        "error": "Oups an error occured"
+    },
+    "profil": {
+        "follow": "Follow",
+        "unfollow": "Unfollow",
+        "playlist": "Playlist",
+        "recent": "View recently",
+        "friends": "Friends"
+    },
+    "Action": "Action",
+    "Adventure": "Aventure",
+    "Animation": "Animation",
+    "Comedy": "Comedy",
+    "Crime": "Crime",
+    "Documentary": "Documentary",
+    "Drama": "Drama",
+    "Family": "Family",
+    "Fantasy": "Fantasy",
+    "History": "History",
+    "Horror": "Horror",
+    "Music": "Music",
+    "Musical": "Musical",
+    "Mystery": "Mystery",
+    "Romance": "Romance",
+    "Sci-Fi": "Sci-Fi",
+    "Science-fiction": "Sci-Fi",
+    "Sport": "Sport",
+    "Thriller": "Thriller",
+    "War": "War",
+    "Western": "Western"
+}
