@@ -30,7 +30,7 @@
     "passport-facebook": "^3.0.0",
     "passport-github": "^1.1.0",
     "passport-google-oauth2": "^0.2.0",
-    "path-to-regexp": "^3.1.0",
+    "path-to-regexp": "^6.0.0",
     "saslprep": "^1.0.3",
     "torrent-stream": "^1.1.0",
     "uuidv1": "^1.6.14"
