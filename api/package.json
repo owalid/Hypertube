@@ -47,6 +47,6 @@
     "babel-preset-es2015": "6.24.1",
     "babel-preset-es2016": "6.24.1",
     "eslint": "7.9.0",
-    "eslint-plugin-import": "2.22.0"
+    "eslint-plugin-import": "2.22.1"
   }
 }
