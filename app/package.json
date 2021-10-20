@@ -18,7 +18,7 @@
     "vue": "2.6.12",
     "vue-i18n": "9.1.4",
     "vue-plyr": "7.0.0",
-    "vue-promised": "2.0.3",
+    "vue-promised": "2.2.0",
     "vue-router": "3.5.1",
     "vuetify": "2.4.11",
     "vuex": "3.6.2",
