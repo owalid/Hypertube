@@ -12,7 +12,7 @@
     "dotenv": "8.2.0",
     "jsonwebtoken": "8.5.1",
     "moment": "2.29.1",
-    "moment-timezone": "0.5.33",
+    "moment-timezone": "0.5.35",
     "parse-torrent": "9.1.3",
     "register-service-worker": "1.7.2",
     "vue": "2.6.12",
